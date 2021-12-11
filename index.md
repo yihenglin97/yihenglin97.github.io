@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Yiheng](yiheng-small.png)
 
 I am a second-year PhD student student in the Department of Computing and Mathematical Sciences at California Institute of Technology. I am fortunate to be co-advised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Yisong Yue](http://www.yisongyue.com/). My research interests are online learning, control, and reinforcement learning.
 
@@ -10,6 +10,4 @@ Previously, I completed my undergraduate program in Computer Science and Technol
 
 # News
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  I give a presentation about our recent work on [Perturbation-based Regret Analysis of Predictive Control]() at NeurIPS 2021.
