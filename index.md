@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="yiheng.JPG" alt="drawing" width="400"/>
+<img src="yiheng.JPG" alt="drawing" class="center" width="400"/>
 
 I am a second-year PhD student student in the Department of Computing and Mathematical Sciences at California Institute of Technology. I am fortunate to be co-advised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Yisong Yue](http://www.yisongyue.com/). My research interests are online learning, control, and reinforcement learning.
 
@@ -10,4 +10,4 @@ Previously, I completed my undergraduate program in Computer Science and Technol
 
 # News
 
-1.  I give a presentation about our recent work on [Perturbation-based Regret Analysis of Predictive Control]() at NeurIPS 2021.
+1.  I gave two presentations about our recent work on [Perturbation-based Regret Analysis of Predictive Control](https://neurips.cc/virtual/2021/poster/27792) and [Networked Multi-agent RL](https://neurips.cc/virtual/2021/poster/27812) at NeurIPS 2021.
