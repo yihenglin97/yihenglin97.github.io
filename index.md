@@ -17,4 +17,4 @@ Previously, I completed my undergraduate program in Computer Science and Technol
 
 ## Contact
 
-yihengl AT caltech.edu
+My first name plus the first letter of my last name AT caltech.edu.
