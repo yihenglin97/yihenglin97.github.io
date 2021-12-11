@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Yiheng](yiheng-small.png | width=100)
+<img src="yiheng-small.png" alt="drawing" width="200"/>
 
 I am a second-year PhD student student in the Department of Computing and Mathematical Sciences at California Institute of Technology. I am fortunate to be co-advised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Yisong Yue](http://www.yisongyue.com/). My research interests are online learning, control, and reinforcement learning.
 
