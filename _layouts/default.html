@@ -14,6 +14,10 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     {% include head-custom.html %}
     <style>
+      #testid {
+        color: white;
+      }
+      
       ul {
         list-style-type: none;
         margin: 0;
@@ -50,7 +54,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <h1 style="color:Tomato;">
+      <h1 ID="testid">
         <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar" color="white"><i class="fas fa-graduation-cap fa-lg"></i></a>
         <a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub" color="white"><i class="fab fa-github fa-lg"></i></a>
         <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" title="Twitter" color="white"><i class="fab fa-twitter fa-lg"></i></a>
