@@ -11,11 +11,6 @@ I am a second-year PhD student student in the [Department of Computing and Mathe
 
 Previously, I completed my undergraduate program in Computer Science and Technology at Andrew Chi-Chih Yao’s CS pilot class at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/), where I was advised by [Prof. Longbo Huang](https://scholar.google.com/citations?user=g9d_K0sAAAAJ&hl=en).
 
-# News
-
-1.  I gave two presentations about our recent work on [Perturbation-based Regret Analysis of Predictive Control](https://neurips.cc/virtual/2021/poster/27792) and [Networked Multi-agent RL](https://neurips.cc/virtual/2021/poster/27812) at NeurIPS 2021.
-2.  I was named a PIMCO Graduate Fellows in Data Science in 2022.
-
 # Contact
 
 My first name plus the first letter of my last name AT caltech.edu.
