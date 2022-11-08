@@ -16,3 +16,9 @@
 (2020/06) Yiheng Lin, Guannan Qu, Longbo Huang, and Adam Wierman, ["Multi-Agent Reinforcement Learning in Stochastic Networked Systems"](https://arxiv.org/abs/2006.06555) Advances in Neural Information Processing Systems 34 (2021).
 
 (2020/06) Guannan Qu, Yiheng Lin, Adam Wierman, and Na Li, ["Scalable Multi-Agent Reinforcement Learning for Networked Systems with Average Reward"](https://arxiv.org/abs/2006.06626) Advances in Neural Information Processing Systems 33 (2020).
+
+(2020/02) Guanya Shi*, Yiheng Lin*, Soon-Jo Chung, Yisong Yue, and Adam Wierman, ["Online Optimization with Memory and Competitive Control"](https://arxiv.org/abs/2002.05318) Advances in Neural Information Processing Systems 33 (2020).
+
+(2019/11) Yiheng Lin, Gautam Goel, and Adam Wierman, ["Online Optimization with Predictions and Non-convex Losses"](https://arxiv.org/abs/1911.03827) Proceedings of the ACM on Measurement and Analysis of Computing Systems, 4(1), pp.1-32 (2020).
+
+(2019/05) Gautam Goel*, Yiheng Lin*, Haoyuan Sun*, and Adam Wierman, ["Beyond Online Balanced Descent: An Optimal Algorithm for Smoothed Online Optimization"](https://arxiv.org/abs/1905.12776) Advances in Neural Information Processing Systems 32 (2019). (Spotlight, $<3\%$).
