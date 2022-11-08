@@ -1,3 +1,8 @@
+---
+layout: default
+title: Yiheng Lin
+---
+
 # Publications
 
 (2022/10) Yiheng Lin, James A. Preiss, Emile Anand, Yingying Li, Yisong Yue, and Adam Wierman, ["Online Adaptive Controller Selection in Time-Varying Systems: No-Regret via Contractive Perturbations"](https://arxiv.org/abs/2210.12320) Under submission (2022).
