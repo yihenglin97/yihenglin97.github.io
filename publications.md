@@ -3,6 +3,10 @@
 
 (2022/10) Yiheng Lin, Hu Yang, Guannan Qu, and Adam Wierman, ["Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity"](https://arxiv.org/abs/2210.12312) To appear in NeurIPS 2022.
 
+(2022/07) Yiheng Lin, Judy Gan, Guannan Qu, Yash Kanoria, and Adam Wierman, ["Decentralized Online Convex Optimization in Networked Systems"](https://arxiv.org/abs/2207.05950) In International Conference on Machine Learning (2022).
+
 (2022/06) Tongxin Li, Ruixiao Yang, Guannan Qu, Yiheng Lin, Steven Low, and Adam Wierman, ["Equipping Black-Box Policies with Model-Based Advice for Stable Nonlinear Control"](https://arxiv.org/abs/2206.01341) Under submission (2022).
 
-(2022/) Sungho Shin, Yiheng Lin, Guannan Qu, Adam Wierman, and Mihai Anitescu, ["Near-Optimal Distributed Linear-Quadratic Regulator for Networked Systems"](https://arxiv.org/abs/2204.05551) Under submission (2022).
+(2022/04) Sungho Shin, Yiheng Lin, Guannan Qu, Adam Wierman, and Mihai Anitescu, ["Near-Optimal Distributed Linear-Quadratic Regulator for Networked Systems"](https://arxiv.org/abs/2204.05551) Under submission (2022).
+
+(2021/11) Weici Pan, Guanya Shi, Yiheng Lin, and Adam Wierman, ["Online optimization with feedback delay and nonlinear switching cost"](https://arxiv.org/abs/2111.00095) Proceedings of the ACM on Measurement and Analysis of Computing Systems, 6(1), pp.1-34 (2022).
