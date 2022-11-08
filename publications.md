@@ -17,7 +17,7 @@ title: Yiheng Lin
 
 (2021/11) Weici Pan, Guanya Shi, Yiheng Lin, and Adam Wierman, ["Online optimization with feedback delay and nonlinear switching cost"](https://arxiv.org/abs/2111.00095) Proceedings of the ACM on Measurement and Analysis of Computing Systems, 6(1), pp.1-34 (2022).
 
-(2021/06) Yiheng Lin<sup>*</sup>, Yang Hu<sup>*</sup>, Haoyuan Sun*, Guanya Shi*, Guannan Qu*, and A. Wierman, ["Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems"](https://arxiv.org/abs/2106.10497) Advances in Neural Information Processing Systems 34 (2021). (Spotlight, <3%).
+(2021/06) Yiheng Lin<sup>\*</sup>, Yang Hu<sup>\*</sup>, Haoyuan Sun*, Guanya Shi*, Guannan Qu*, and A. Wierman, ["Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems"](https://arxiv.org/abs/2106.10497) Advances in Neural Information Processing Systems 34 (2021). (Spotlight, <3%).
 
 (2020/06) Yiheng Lin, Guannan Qu, Longbo Huang, and Adam Wierman, ["Multi-Agent Reinforcement Learning in Stochastic Networked Systems"](https://arxiv.org/abs/2006.06555) Advances in Neural Information Processing Systems 34 (2021).
 
