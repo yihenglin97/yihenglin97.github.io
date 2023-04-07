@@ -5,6 +5,8 @@ title: Yiheng Lin
 
 # News
 
+(2023/03) I was named the 2022-2023 class of Amazon/Caltech AI4Science Fellow. (About 8 graduate/postdoctoral students at Caltech each year.)
+
 (2022/11) I was named a [PIMCO Graduate/Postdoctoral Fellow in Data Science](https://www.pimco.com/en-us/our-firm/press-release/2018/pimco-partners-with-caltech-in-computing-and-mathematical-sciences/) in 2022. (About 4 graduate/postdoctoral students in CMS and HSS department at Caltech each year.)
 
 (2022/11) I gave a talk at University of California, Santa Barbara. (Host: [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/))
