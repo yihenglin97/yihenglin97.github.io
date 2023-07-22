@@ -5,15 +5,21 @@ title: Yiheng Lin
 
 # Publications
 
+(2023/07) Zhaoyi Zhou, Zaiwei Chen, Yiheng Lin, and Adam Wierman, ["Convergence Rates for Localized Actor-Critic in Networked Markov Potential Games."](https://arxiv.org/abs/2303.04865) To appear in the 39th Conference on Uncertainty in Artificial Intelligience (2023).
+
+(2023/01) Yingying Li, James A. Preiss, Na Li, Yiheng Lin, Adam Wierman, and Jeff Shamma, ["Online Switching Control with Stability and Regret Guarantees."](https://arxiv.org/abs/2301.08445) The fifth Annual Learning for Dynamics \& Control Conference (2023).
+
+(2022/11) Yizhou Zhang, Guannan Qu, Pan Xu, Yiheng Lin, Zaiwei Chen, and Adam Wierman, ["Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning."](https://arxiv.org/abs/2211.17116) ACM SIGMETRICS (2023).
+
 (2022/10) Yiheng Lin, James A. Preiss, Emile Anand, Yingying Li, Yisong Yue, and Adam Wierman, ["Online Adaptive Controller Selection in Time-Varying Systems: No-Regret via Contractive Perturbations"](https://arxiv.org/abs/2210.12320) Under submission (2022).
 
-(2022/10) Yiheng Lin, Hu Yang, Guannan Qu, and Adam Wierman, ["Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity"](https://arxiv.org/abs/2210.12312) To appear in NeurIPS 2022.
+(2022/10) Yiheng Lin, Hu Yang, Guannan Qu, and Adam Wierman, ["Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity"](https://arxiv.org/abs/2210.12312) Advances in Neural Information Processing Systems 35 (2022).
 
 (2022/07) Yiheng Lin<sup>*</sup>, Judy Gan<sup>*</sup>, Guannan Qu, Yash Kanoria, and Adam Wierman, ["Decentralized Online Convex Optimization in Networked Systems"](https://arxiv.org/abs/2207.05950) In International Conference on Machine Learning (2022).
 
-(2022/06) Tongxin Li, Ruixiao Yang, Guannan Qu, Yiheng Lin, Steven Low, and Adam Wierman, ["Equipping Black-Box Policies with Model-Based Advice for Stable Nonlinear Control"](https://arxiv.org/abs/2206.01341) Under submission (2022).
+(2022/06) Tongxin Li, Ruixiao Yang, Guannan Qu, Yiheng Lin, Steven Low, and Adam Wierman, ["Equipping Black-Box Policies with Model-Based Advice for Stable Nonlinear Control"](https://arxiv.org/abs/2206.01341) IEEE Open Journal of Control System (2022).
 
-(2022/04) Sungho Shin, Yiheng Lin, Guannan Qu, Adam Wierman, and Mihai Anitescu, ["Near-Optimal Distributed Linear-Quadratic Regulator for Networked Systems"](https://arxiv.org/abs/2204.05551) Under submission (2022).
+(2022/04) Sungho Shin, Yiheng Lin, Guannan Qu, Adam Wierman, and Mihai Anitescu, ["Near-Optimal Distributed Linear-Quadratic Regulator for Networked Systems"](https://arxiv.org/abs/2204.05551) SIAM Journal on Control and Optimization (2022).
 
 (2021/11) Weici Pan, Guanya Shi, Yiheng Lin, and Adam Wierman, ["Online optimization with feedback delay and nonlinear switching cost"](https://arxiv.org/abs/2111.00095) Proceedings of the ACM on Measurement and Analysis of Computing Systems, 6(1), pp.1-34 (2022).
 
