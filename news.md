@@ -5,6 +5,8 @@ title: Yiheng Lin
 
 # News
 
+(2023/08) I gave a talk at Harvard University. (Host: [Prof. Na Li](https://nali.seas.harvard.edu/))
+
 (2023/04) I won the third place in the poster competition at [Citadel Securities PhD Summit 2023](https://www.citadelsecurities.com/news-and-insights/citadel-securities-2023-phd-summit/).
 
 (2023/03) I was named the 2022-2023 class of Amazon/Caltech AI4Science Fellow. (About 8 graduate/postdoctoral students at Caltech each year.)
