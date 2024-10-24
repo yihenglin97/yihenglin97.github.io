@@ -5,7 +5,9 @@ title: Yiheng Lin
 
 # News
 
-(2024/02) I gave an invited talk at University of California, San Diego. (Host: [Prof. Yang Zheng](https://zhengy09.github.io/))
+(2024/10) I gave a talk at Washington University in St. Louis. (Host: [Prof. Chongjie Zhang](https://engineering.washu.edu/faculty/Chongjie-Zhang.html))
+
+(2024/02) I gave a talk at University of California, San Diego. (Host: [Prof. Yang Zheng](https://zhengy09.github.io/))
 
 (2023/10) I gave a presentation at [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) about [our work on online adaptive policy optimization](https://arxiv.org/pdf/2210.12320).
 
