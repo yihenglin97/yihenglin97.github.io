@@ -5,17 +5,19 @@ title: Yiheng Lin
 
 # Publications
 
-(2024/04) Lauren Conger, Yiheng Lin, Adam Wierman, and Eric Mazumdar, ["Characterizing Controllability and Observability for Systems with Locality, Communication, and Actuation Constraints."](https://arxiv.org/abs/2403.18956) To appear at the 63rd IEEE Conference on Decision and Control (2024).
+(2024/04) Yiheng Lin, James A. Preiss, Fengze Xie, Emile Anand, Soon-Jo Chung, Yisong Yue, and Adam Wierman, ["Online Policy Optimization in Unknown Nonlinear Systems."](https://arxiv.org/abs/2404.13009) Proceedings of Thirty Seventh Conference on Learning Theory, PMLR (2024).
 
-(2023/12) Tongxin Li, Yiheng Lin, Shaolei Ren, and Adam Wierman, ["Beyond Black-Box Advice: Learning-Augmented Algorithms for MDPs with Q-Value Predictions."](https://arxiv.org/abs/2307.10524) Advances in Neural Information Processing Systems 36 (2023).
+(2024/03) Lauren Conger, Yiheng Lin, Adam Wierman, and Eric Mazumdar, ["Characterizing Controllability and Observability for Systems with Locality, Communication, and Actuation Constraints."](https://arxiv.org/abs/2403.18956) To appear at the 63rd IEEE Conference on Decision and Control (2024).
 
-(2023/12) Yiheng Lin, James A. Preiss, Emile Anand, Yingying Li, Yisong Yue, and Adam Wierman, ["Online Adaptive Policy Selection in Time-Varying Systems: No-Regret via Contractive Perturbations"](https://arxiv.org/abs/2210.12320) Advances in Neural Information Processing Systems 36 (2023).
+(2023/07) Tongxin Li, Yiheng Lin, Shaolei Ren, and Adam Wierman, ["Beyond Black-Box Advice: Learning-Augmented Algorithms for MDPs with Q-Value Predictions."](https://arxiv.org/abs/2307.10524) Advances in Neural Information Processing Systems 36 (2023).
 
 (2023/07) Zhaoyi Zhou, Zaiwei Chen, Yiheng Lin, and Adam Wierman, ["Convergence Rates for Localized Actor-Critic in Networked Markov Potential Games."](https://arxiv.org/abs/2303.04865) The 39th Conference on Uncertainty in Artificial Intelligience (2023).
 
 (2023/01) Yingying Li, James A. Preiss, Na Li, Yiheng Lin, Adam Wierman, and Jeff Shamma, ["Online Switching Control with Stability and Regret Guarantees."](https://arxiv.org/abs/2301.08445) The fifth Annual Learning for Dynamics \& Control Conference (2023).
 
 (2022/11) Yizhou Zhang, Guannan Qu, Pan Xu, Yiheng Lin, Zaiwei Chen, and Adam Wierman, ["Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning."](https://arxiv.org/abs/2211.17116) ACM SIGMETRICS (2023).
+
+(2022/10) Yiheng Lin, James A. Preiss, Emile Anand, Yingying Li, Yisong Yue, and Adam Wierman, ["Online Adaptive Policy Selection in Time-Varying Systems: No-Regret via Contractive Perturbations"](https://arxiv.org/abs/2210.12320) Advances in Neural Information Processing Systems 36 (2023).
 
 (2022/10) Yiheng Lin, Hu Yang, Guannan Qu, and Adam Wierman, ["Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity"](https://arxiv.org/abs/2210.12312) Advances in Neural Information Processing Systems 35 (2022).
 
