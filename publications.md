@@ -5,6 +5,10 @@ title: Yiheng Lin
 
 # Publications
 
+(2024/08) Tianyu Chen, Yiheng Lin, Nicolas Christianson, Zahaib Akhtar, Sharath Dharmaji, Mohammad Hajiesmaili, Adam Wierman, and Ramesh K. Sitaraman, ["SODA: An Adaptive Bitrate Controller for Consistent High-Quality Video Streaming."](https://dl.acm.org/doi/10.1145/3651890.3672260) Proceedings of the ACM SIGCOMM 2024 Conference (2024).
+
+(2024/05) Ruiyang Jin, Zaiwei Chen, Yiheng Lin, Jie Song, and Adam Wierman, ["Approximate Global Convergence of Independent Learning in Multi-Agent Systems."](https://arxiv.org/abs/2405.19811) Under submission (2024).
+
 (2024/04) Yiheng Lin, James A. Preiss, Fengze Xie, Emile Anand, Soon-Jo Chung, Yisong Yue, and Adam Wierman, ["Online Policy Optimization in Unknown Nonlinear Systems."](https://arxiv.org/abs/2404.13009) Proceedings of Thirty Seventh Conference on Learning Theory, PMLR (2024).
 
 (2024/03) Lauren Conger, Yiheng Lin, Adam Wierman, and Eric Mazumdar, ["Characterizing Controllability and Observability for Systems with Locality, Communication, and Actuation Constraints."](https://arxiv.org/abs/2403.18956) To appear at the 63rd IEEE Conference on Decision and Control (2024).
